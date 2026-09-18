@@ -1,0 +1,42 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Asus\\OneDrive\\Documents\\Blockchain_CS\\drugchain\\blockchain\\contracts\\DrugSupplyChain.sol": {
+      "lastModificationDate": 1789568058682,
+      "contentHash": "d743b612a20dcaa3ead88665ab2f3d1d",
+      "sourceName": "contracts/DrugSupplyChain.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "DrugSupplyChain"
+      ]
+    }
+  }
+}

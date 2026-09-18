@@ -1,0 +1,18 @@
+
+> drugchain-frontend@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v5.4.21  ready in 766 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+10:09:35 pm [vite] hmr update /src/index.css, /src/pages/RetailerDashboard.jsx, /src/pages/AdminDashboard.jsx, /src/pages/WholesalerDashboard.jsx, /src/pages/ManufacturerDashboard.jsx, /src/pages/CustomerDashboard.jsx
+10:16:08 pm [vite] hmr update /src/context/Web3Context.jsx, /src/index.css
+10:16:08 pm [vite] hmr update /src/components/WalletButton.jsx, /src/index.css
+10:16:08 pm [vite] hmr update /src/pages/ManufacturerDashboard.jsx, /src/index.css
+10:16:08 pm [vite] hmr update /src/pages/WholesalerDashboard.jsx, /src/index.css
+10:16:08 pm [vite] hmr update /src/pages/RetailerDashboard.jsx, /src/index.css
+10:16:08 pm [vite] hmr update /src/pages/CustomerDashboard.jsx, /src/index.css
+10:32:27 pm [vite] hmr update /src/context/Web3Context.jsx, /src/index.css
+10:32:27 pm [vite] hmr update /src/components/WalletButton.jsx, /src/index.css
+10:32:45 pm [vite] hmr update /src/pages/ConnectWallet.jsx, /src/index.css
